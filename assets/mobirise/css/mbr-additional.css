@@ -1268,6 +1268,15 @@ section.lazy-placeholder:after {
     -webkit-flex-basis: initial !important;
   }
 }
+.cid-2pmB326gsD {
+  background-color: #ffffff;
+}
+.cid-2pmB326gsD .show {
+  visibility: visible;
+}
+.cid-2pmB326gsD .hide {
+  visibility: hidden;
+}
 .cid-sf7XDiqJq3 {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1421,13 +1430,4 @@ section.lazy-placeholder:after {
   .cid-sf7XY85gAb .form-group {
     margin: 0;
   }
-}
-.cid-waOcGU2BEc {
-  background-color: #242930;
-}
-.cid-waOcGU2BEc .show {
-  visibility: visible;
-}
-.cid-waOcGU2BEc .hide {
-  visibility: hidden;
 }
